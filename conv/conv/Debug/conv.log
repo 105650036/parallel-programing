@@ -1,0 +1,1 @@
+﻿I:\new\conv\conv\conv.vcxproj(186,5): error MSB4019: 找不到匯入的專案 "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\BuildCustomizations\NvCudaRuntimeApi.v5.5.targets"。請確認 <Import> 宣告中的路徑正確，而且檔案位於磁碟上。
